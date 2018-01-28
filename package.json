@@ -1,0 +1,26 @@
+{
+  "name": "zadania",
+  "version": "1.0.0",
+  "description": "(testing npm file)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freefrogs/EX_Node.git"
+  },
+  "keywords": [
+    "(npm)"
+  ],
+  "author": " (JB)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freefrogs/EX_Node/issues"
+  },
+  "homepage": "https://github.com/freefrogs/EX_Node#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
